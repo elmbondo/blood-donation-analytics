@@ -5,7 +5,6 @@ An end-to-end data engineering project that simulates a national blood donation 
 
 This project sits alongside [HemaMatch](https://github.com/elmbondo/hemamatch), a blood donor-recipient matching system with an ARIMA-based inventory forecasting module. Together they form a complete data ecosystem around one real problem: blood supply management in Kenya.
 
----
 
 ## What is in this repo
 
@@ -21,7 +20,6 @@ blood-donation-analytics/
 
 ```
 
----
 
 ## Tech Stack
 
@@ -31,7 +29,6 @@ blood-donation-analytics/
 - SQLAlchemy and psycopg2: Python to PostgreSQL connection
 - Power BI Desktop: dashboard and reporting
 
----
 
 ## How to reproduce this project
 
@@ -73,7 +70,6 @@ Open `analytics.sql` in pgAdmin and run the full script. It creates ten analytic
 
 Open `blood_donation_analytics.pbix` in Power BI Desktop. Connect to your local PostgreSQL instance when prompted.
 
----
 
 ## Data Model
 
@@ -90,7 +86,6 @@ The warehouse uses a star schema with two fact tables at the centre.
 - `dim_counties`: region, population, urban or rural classification
 - `dim_time`: date, month, quarter, year, season, public holiday flag
 
----
 
 ## Dashboard
 
@@ -137,7 +132,6 @@ Donor density per 10,000 people across all 47 counties, and fulfillment rates by
 
 
 
----
 
 ## Key Findings
 
@@ -149,7 +143,6 @@ Three findings stood out during analysis.
 
 **Lamu has the highest donor density in Kenya.** With 3.13 donors per 10,000 people, Lamu outperforms Nairobi, Mombasa, and every other county in the dataset. For a small coastal county this is unexpected, and it points to the value of community-level donation culture over sheer population size.
 
----
 
 ## Why I built this
 
@@ -157,7 +150,6 @@ This project grew out of HemaMatch, a capstone project I built with my team at J
 
 The Kenya-specific context matters to me. Blood type distributions, county populations, facility levels, seasonal trauma patterns tied to the Long Rains: all of these are modelled on real Kenyan data. The goal was to build something that could, with real data plugged in, actually be useful to the Kenya National Blood Transfusion Service.
 
----
 
 ## Author
 
