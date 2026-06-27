@@ -3,7 +3,7 @@
 
 An end-to-end data engineering project that simulates a national blood donation database for Kenya. It covers synthetic data generation, a PostgreSQL data warehouse built on a star schema, a full ETL pipeline, SQL analytics, and a five-page Power BI dashboard.
 
-This project sits alongside [HemaMatch](https://github.com/elmbondo/hemamatch), a blood donor-recipient matching system with an ARIMA-based inventory forecasting module. Together they form a complete data ecosystem around one real problem: blood supply management in Kenya.
+This project sits alongside [HemaMatch](https://github.com/elmbondo/Hema_match.git), a blood donor-recipient matching system with an ARIMA-based inventory forecasting module. Together they form a complete data ecosystem around one real problem: blood supply management in Kenya.
 
 
 ## What is in this repo
