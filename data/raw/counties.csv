@@ -1,0 +1,48 @@
+county_id,county_name,region,population,urban_rural
+1,Nairobi,Nairobi,4397073,Urban
+2,Mombasa,Coast,1208333,Urban
+3,Kisumu,Nyanza,1155574,Urban
+4,Nakuru,Rift Valley,2162202,Urban
+5,Eldoret,Rift Valley,1163186,Urban
+6,Kiambu,Central,2417735,Urban
+7,Machakos,Eastern,1421932,Urban
+8,Meru,Eastern,1545714,Urban
+9,Nyeri,Central,759164,Rural
+10,Kakamega,Western,1867579,Rural
+11,Kisii,Nyanza,1266860,Rural
+12,Kilifi,Coast,1453787,Rural
+13,Murang'a,Central,1056640,Rural
+14,Embu,Eastern,608599,Rural
+15,Bungoma,Western,1670570,Rural
+16,Siaya,Nyanza,993183,Rural
+17,Vihiga,Western,590013,Rural
+18,Migori,Nyanza,1116436,Rural
+19,Bomet,Rift Valley,875689,Rural
+20,Kericho,Rift Valley,901777,Rural
+21,Nandi,Rift Valley,885711,Rural
+22,Trans Nzoia,Rift Valley,990341,Rural
+23,Uasin Gishu,Rift Valley,1163186,Rural
+24,Laikipia,Rift Valley,518560,Rural
+25,Nyandarua,Central,638289,Rural
+26,Kirinyaga,Central,610411,Rural
+27,Tharaka-Nithi,Eastern,393177,Rural
+28,Kitui,Eastern,1136187,Rural
+29,Makueni,Eastern,987653,Rural
+30,Kajiado,Rift Valley,1117840,Rural
+31,Narok,Rift Valley,1157873,Rural
+32,Baringo,Rift Valley,666763,Rural
+33,West Pokot,Rift Valley,621241,Rural
+34,Samburu,Rift Valley,310327,Rural
+35,Taita-Taveta,Coast,340671,Rural
+36,Kwale,Coast,866820,Rural
+37,Tana River,Coast,315943,Rural
+38,Lamu,Coast,143920,Rural
+39,Garissa,North Eastern,841353,Rural
+40,Wajir,North Eastern,781263,Rural
+41,Mandera,North Eastern,1025756,Rural
+42,Marsabit,Northern,459785,Rural
+43,Isiolo,Northern,268002,Rural
+44,Turkana,Northern,926976,Rural
+45,Pokot,Rift Valley,621241,Rural
+46,Elgeyo-M.,Rift Valley,454480,Rural
+47,Homa Bay,Nyanza,1131950,Rural

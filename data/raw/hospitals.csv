@@ -1,0 +1,81 @@
+hospital_id,hospital_name,county,region,facility_level
+1,Kakamega County Referral Hospital,Kakamega,Western,Level 5
+2,Kirinyaga General Hospital,Kirinyaga,Central,Level 4
+3,Nakuru District Hospital,Nakuru,Rift Valley,Level 4
+4,Nairobi Medical Centre,Nairobi,Nairobi,National
+5,Kericho Medical Centre,Kericho,Rift Valley,Level 4
+6,Nairobi Mission Hospital,Nairobi,Nairobi,National
+7,West Pokot County Referral Hospital,West Pokot,Rift Valley,Level 4
+8,Nakuru County Referral Hospital,Nakuru,Rift Valley,Level 4
+9,Meru Community Hospital,Meru,Eastern,Level 5
+10,Kilifi General Hospital,Kilifi,Coast,Level 4
+11,Kericho General Hospital,Kericho,Rift Valley,Level 4
+12,Machakos County Referral Hospital,Machakos,Eastern,Level 4
+13,Murang'a Medical Centre,Murang'a,Central,Level 4
+14,Eldoret Medical Centre,Eldoret,Rift Valley,Level 5
+15,Bomet General Hospital,Bomet,Rift Valley,Level 4
+16,Kericho Medical Centre,Kericho,Rift Valley,Level 4
+17,Mombasa Community Hospital,Mombasa,Coast,National
+18,Elgeyo-M. Medical Centre,Elgeyo-M.,Rift Valley,Level 5
+19,Meru Specialist Hospital,Meru,Eastern,Level 4
+20,Laikipia District Hospital,Laikipia,Rift Valley,Level 4
+21,Kisumu General Hospital,Kisumu,Nyanza,Level 4
+22,Nairobi Mission Hospital,Nairobi,Nairobi,National
+23,Kiambu Community Hospital,Kiambu,Central,Level 5
+24,Meru Teaching & Referral Hospital,Meru,Eastern,Level 5
+25,Vihiga District Hospital,Vihiga,Western,Level 4
+26,Elgeyo-M. Mission Hospital,Elgeyo-M.,Rift Valley,Level 4
+27,Isiolo Medical Centre,Isiolo,Northern,Level 5
+28,Kericho Teaching & Referral Hospital,Kericho,Rift Valley,Level 5
+29,Mombasa County Referral Hospital,Mombasa,Coast,Level 4
+30,Nairobi County Referral Hospital,Nairobi,Nairobi,Level 5
+31,Kisii Community Hospital,Kisii,Nyanza,Level 4
+32,West Pokot County Referral Hospital,West Pokot,Rift Valley,Level 4
+33,Machakos Teaching & Referral Hospital,Machakos,Eastern,Level 5
+34,Kisumu Teaching & Referral Hospital,Kisumu,Nyanza,Level 5
+35,Mombasa District Hospital,Mombasa,Coast,National
+36,Makueni General Hospital,Makueni,Eastern,Level 4
+37,Nairobi Specialist Hospital,Nairobi,Nairobi,National
+38,Nyandarua County Referral Hospital,Nyandarua,Central,Level 4
+39,Makueni Community Hospital,Makueni,Eastern,Level 4
+40,Kakamega County Referral Hospital,Kakamega,Western,Level 4
+41,Kwale District Hospital,Kwale,Coast,Level 4
+42,Nyeri Teaching & Referral Hospital,Nyeri,Central,Level 4
+43,Meru Medical Centre,Meru,Eastern,Level 4
+44,Kirinyaga County Referral Hospital,Kirinyaga,Central,Level 4
+45,Lamu General Hospital,Lamu,Coast,Level 4
+46,Kisumu Medical Centre,Kisumu,Nyanza,Level 5
+47,Kitui District Hospital,Kitui,Eastern,Level 4
+48,Makueni County Referral Hospital,Makueni,Eastern,Level 4
+49,Siaya Medical Centre,Siaya,Nyanza,Level 4
+50,Nairobi County Referral Hospital,Nairobi,Nairobi,Level 4
+51,Nairobi Community Hospital,Nairobi,Nairobi,Level 5
+52,Meru District Hospital,Meru,Eastern,Level 5
+53,Wajir Specialist Hospital,Wajir,North Eastern,Level 4
+54,Kisii Teaching & Referral Hospital,Kisii,Nyanza,Level 4
+55,Eldoret Mission Hospital,Eldoret,Rift Valley,Level 4
+56,Machakos Teaching & Referral Hospital,Machakos,Eastern,Level 4
+57,Marsabit Teaching & Referral Hospital,Marsabit,Northern,Level 5
+58,Nandi Medical Centre,Nandi,Rift Valley,Level 5
+59,Narok District Hospital,Narok,Rift Valley,Level 4
+60,Lamu County Referral Hospital,Lamu,Coast,Level 4
+61,Narok Mission Hospital,Narok,Rift Valley,Level 5
+62,Meru Medical Centre,Meru,Eastern,Level 4
+63,Eldoret Mission Hospital,Eldoret,Rift Valley,Level 4
+64,Baringo Specialist Hospital,Baringo,Rift Valley,Level 5
+65,Nairobi Community Hospital,Nairobi,Nairobi,Level 5
+66,Kilifi District Hospital,Kilifi,Coast,Level 4
+67,Kisumu Medical Centre,Kisumu,Nyanza,Level 4
+68,Isiolo Teaching & Referral Hospital,Isiolo,Northern,Level 4
+69,Siaya General Hospital,Siaya,Nyanza,Level 4
+70,Kakamega Medical Centre,Kakamega,Western,Level 5
+71,Pokot General Hospital,Pokot,Rift Valley,Level 4
+72,Bungoma Teaching & Referral Hospital,Bungoma,Western,Level 4
+73,Machakos Community Hospital,Machakos,Eastern,Level 4
+74,Kericho District Hospital,Kericho,Rift Valley,Level 4
+75,Nairobi County Referral Hospital,Nairobi,Nairobi,Level 4
+76,Wajir Medical Centre,Wajir,North Eastern,Level 4
+77,Kisumu Teaching & Referral Hospital,Kisumu,Nyanza,Level 4
+78,Homa Bay Medical Centre,Homa Bay,Nyanza,Level 4
+79,Uasin Gishu Specialist Hospital,Uasin Gishu,Rift Valley,Level 4
+80,Kiambu Community Hospital,Kiambu,Central,Level 5
